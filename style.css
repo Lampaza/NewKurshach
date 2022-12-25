@@ -706,14 +706,14 @@ button {
     }
 
     .container {
-        margin: auto 40px;
+       	margin: auto 98px;
     }
 
     .number-item {
         font-size: 23px;
     }
-    .smart-basket__min-icon, 
+    /*.smart-basket__min-icon, 
     .smart-basket__min-count{
         display: none;
-    }
+    }*/
 }
